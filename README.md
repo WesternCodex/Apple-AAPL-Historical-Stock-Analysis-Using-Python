@@ -1,7 +1,3 @@
-# Apple-AAPL-Historical-Stock-Analysis-Using-Python
-This project explores five years of Apple (AAPL) stock market data using Python, applying data transformation, feature engineering, and time-series analysis to uncover trends, investor activity, and stock performance insights.
-# Apple (AAPL) Historical Stock Analysis Using Python
-
 ## Project Overview
 
 This project explores Apple's (AAPL) historical stock market performance using Python. The analysis covers five years of stock data (2021–2026) and focuses on data transformation, time-series analysis, feature engineering, and data visualization.
@@ -25,7 +21,7 @@ Features:
 - Volume
 
 Period Covered:
-- June 2021 – June 2026
+- 09 June 2021 – 09 June 2026
 
 ---
 
