@@ -116,4 +116,4 @@ The analysis shows that Apple experienced strong long-term growth between 2021 a
 
 Chukwudi Onwusa
 
-Data Analytics Intern | AnalystLab Africa
+Data Analyst | Codex Nexus
